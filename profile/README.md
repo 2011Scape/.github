@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1067274729205010463/1079998213353902140/2011Scape.png" />
+  <img src="https://cdn.discordapp.com/attachments/1067274729205010463/1082144752985702451/2011scapelogo.png" />
   <br>
   <br>
   <br>
@@ -25,12 +25,14 @@ Welcome to 2011Scape, an open-source emulation of RuneScape as it was on October
 - Discord: [2011Scape Discord](https://discord.gg/jDbBAKjhxh)
 - Reddit: [r/2011Scape](https://www.reddit.com/r/2011scape/)
 
+
 # Quick Links
 
 <b>2011Scape Related<b>
 - [Game Repository](https://github.com/2011Scape/game)
 - [File Server Repository](https://github.com/2011Scape/file-server)
 - [Client Repository](https://github.com/2011Scape/rs-client)
+- [Installation Guide](https://github.com/2011Scape/installation-guide)
 
 <b>Extras</b>
 - [OpenRS2 Archive](https://archive.openrs2.org/)
