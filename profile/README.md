@@ -1,11 +1,12 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1067274729205010463/1082144752985702451/2011scapelogo.png" />
+  <img src="https://github.com/2011Scape/.github/assets/75695035/7d488713-711b-4aad-926a-a1d88941503c" />
   <br>
   <br>
   <br>
-  <img src="https://cdn.discordapp.com/attachments/1067274729205010463/1080001930836852806/image.png" />
+  <img src="https://github.com/2011Scape/.github/assets/75695035/79c4e8f9-8246-43de-80c7-ea48d93130b0" />
   <br>
 </p>
+
 
 
 
