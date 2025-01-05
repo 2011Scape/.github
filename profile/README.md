@@ -32,7 +32,7 @@ Welcome to 2011Scape, an open-source emulation of RuneScape as it was on October
 <b>2011Scape Related<b>
 - [Game Repository](https://github.com/2011Scape/game)
 - [File Server Repository](https://github.com/2011Scape/file-server)
-- [Client Repository](https://github.com/2011Scape/runetek5-client)
+- [Client Repository](https://github.com/2011Scape/stronghold-client)
 - [Installation Guide](https://github.com/2011Scape/installation-guide)
 
 <b>Extras</b>
