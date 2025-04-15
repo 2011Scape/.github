@@ -1,8 +1,5 @@
 <p align="center">
-  <img src="https://github.com/2011Scape/.github/assets/75695035/7d488713-711b-4aad-926a-a1d88941503c" />
-  <br>
-  <br>
-  <br>
+  <h1>2011Scape</h1>
   <img src="https://github.com/2011Scape/.github/assets/75695035/79c4e8f9-8246-43de-80c7-ea48d93130b0" />
   <br>
 </p>
