@@ -19,8 +19,6 @@ Welcome to 2011Scape, an open-source emulation of RuneScape as it was in 2011. W
 <p align="center">
 ---
 </p>
-
-2011Scape was built from the original RSMod v1 release, and can be found at their GitHub located [here](https://github.com/Tomm0017/rsmod).
 </p>
 </div>
 
