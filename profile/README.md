@@ -14,7 +14,7 @@
 
 # Introduction
 </div><p align="left">
-Welcome to 2011Scape, an open-source emulation of RuneScape as it was in 2011. We encourage all newcomers to the project, whether you're interested in playing single-player, on the official world, or contributing whether you're an entry-level or an experienced developer. 2011Scape is licensed with Apache-2.0, and all use or distribution of the code follows the license' permissions.
+Welcome to 2011Scape, an open-source emulation of RuneScape as it was in 2011. We encourage all newcomers to the project, whether you're interested in playing single-player, on the official world, or contributing whether you're an entry-level or an experienced developer. 2011Scape is licensed with BSD 3-Clause License, and all use or distribution of the code follows the license' permissions.
 </p>
 <p align="center">
 
