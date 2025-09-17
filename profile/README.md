@@ -29,14 +29,10 @@ Welcome to 2011Scape, an open-source emulation of RuneScape as it was in 2011. W
 
 ### 2011Scape Repositories
 
-- **[Game Repository](https://github.com/2011Scape/game)**  
-  The core server implementation, faithful to the October 4th, 2011 RuneScape experience.
-- **[File Server Repository](https://github.com/2011Scape/file-server)**  
-  Serves cache files, assets, and configuration for the game server.
-- **[Client Repository](https://github.com/2011Scape/2011scape-client)**  
-  A modern Java client, built on JDK 11, for connecting to your local or public 2011Scape server.
-- **[Installation Guide](https://github.com/2011Scape/installation-guide)**  
-  Step‑by‑step instructions for setting up the cache, xteas, and running all three repositories.
+- **[Game Server Repository](https://github.com/2011Scape/game-server)**  
+  Lightweight 2011 RuneScape multiplayer server.
+- **[Client Repository](https://github.com/2011Scape/634-client)**
+  Deobfuscated 634 2010-12-14 client, for connecting to your local or public 2011 RuneScape server.
 
 ---
 
