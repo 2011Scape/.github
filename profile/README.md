@@ -29,10 +29,8 @@ Welcome to 2011Scape, an open-source emulation of RuneScape as it was in 2011. W
 
 ### 2011Scape Repositories
 
-- **[Game Server Repository](https://github.com/2011Scape/game-server)**  
-  Lightweight 2011 RuneScape multiplayer server.
-- **[Client Repository](https://github.com/2011Scape/634-client)**
-  Deobfuscated 634 2010-12-14 client, for connecting to your local or public 2011 RuneScape server.
+- **[Game Server Repository](https://github.com/2011Scape/game-server)**  Lightweight 2011 RuneScape multiplayer server.
+- **[Client Repository](https://github.com/2011Scape/634-client)**  Deobfuscated 634 2010-12-14 client, for connecting to your local or public 2011 RuneScape server.
 
 ---
 
